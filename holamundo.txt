@@ -6,3 +6,6 @@ Português: Olá mundo!
 Français: Bonjour tout le monde!
 Català: Hola Món!
 En lenguas asiáticas:
+中国語 ハローワールド
+漢語 你好世界
+汉语 你好世界
